@@ -1,0 +1,16 @@
+Reflexión — Semana 3
+
+Mantener un registro de cambios en los proyectos de software usando herramientas como Git
+es una práctica esencial en el desarrollo profesional. Cuando múltiples personas trabajan
+en un mismo proyecto, es indispensable saber qué cambios se hicieron, quién los hizo y en
+qué momento, para evitar conflictos y pérdida de información.
+Git actúa como una memoria histórica del proyecto: permite regresar a versiones anteriores
+si algo falla, comparar diferentes estados del código y entender la evolución del trabajo
+a lo largo del tiempo. Esto no solo protege el proyecto ante errores, sino que también
+fomenta la colaboración ordenada entre equipos de desarrollo.
+Además, contar con un historial de commits detallado facilita la revisión del código,
+mejora la comunicación entre desarrolladores y demuestra transparencia en el proceso de
+construcción del software. En proyectos educativos como este, Git también permite al
+estudiante ver su propio progreso y aprender de sus errores de manera trazable. En
+conclusión, usar Git no es opcional en el desarrollo moderno; es un estándar profesional
+que garantiza calidad, orden y confianza en el trabajo realizado.
